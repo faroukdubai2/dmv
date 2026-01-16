@@ -1,0 +1,5837 @@
+{
+  "title": "Driver License Appointment and Office Wait Times",
+  "extraction_date": "2026-01-16T19:04:09.702110",
+  "source_url": "https://www.dps.texas.gov/apps/Viewer/Document/Vue/WAITTIMES",
+  "offices": [
+    {
+      "office_name": "Abilene",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "4",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "6",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "19",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "4",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Alice",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "4",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "14",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "4",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Alpine",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "4",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Amarillo",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "5",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Anderson",
+      "appointment_types": [
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "31",
+          "average_wait_time": "00:10"
+        },
+        {
+          "type": "Original",
+          "availability_days": "1",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "6",
+          "average_wait_time": "00:03"
+        }
+      ]
+    },
+    {
+      "office_name": "Andrews",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "4",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "5",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "4",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Angleton",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "3",
+          "average_wait_time": "00:06"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "14",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "Original",
+          "availability_days": "3",
+          "average_wait_time": "00:08"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "3",
+          "average_wait_time": "00:05"
+        }
+      ]
+    },
+    {
+      "office_name": "Anson",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "9",
+          "average_wait_time": "00:13"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "34",
+          "average_wait_time": "00:14"
+        },
+        {
+          "type": "Original",
+          "availability_days": "8",
+          "average_wait_time": "00:19"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "6",
+          "average_wait_time": "00:10"
+        }
+      ]
+    },
+    {
+      "office_name": "Aransas Pass",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "6",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "22",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "5",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "4",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Athens",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "36",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "61",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "33",
+          "average_wait_time": "00:05"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "34",
+          "average_wait_time": "00:02"
+        }
+      ]
+    },
+    {
+      "office_name": "Austin North",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "37",
+          "average_wait_time": "00:22"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "50",
+          "average_wait_time": "00:09"
+        },
+        {
+          "type": "Original",
+          "availability_days": "38",
+          "average_wait_time": "00:22"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "39",
+          "average_wait_time": "00:17"
+        }
+      ]
+    },
+    {
+      "office_name": "Austin Northwest",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "34",
+          "average_wait_time": "00:31"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "27",
+          "average_wait_time": "00:10"
+        },
+        {
+          "type": "Original",
+          "availability_days": "40",
+          "average_wait_time": "00:28"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "36",
+          "average_wait_time": "00:23"
+        }
+      ]
+    },
+    {
+      "office_name": "Austin South",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "29",
+          "average_wait_time": "00:48"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "105",
+          "average_wait_time": "00:10"
+        },
+        {
+          "type": "Original",
+          "availability_days": "36",
+          "average_wait_time": "00:58"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "38",
+          "average_wait_time": "00:55"
+        }
+      ]
+    },
+    {
+      "office_name": "Baird",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "0",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "17",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "12",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Ballinger",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "11",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "34",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Original",
+          "availability_days": "13",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "10",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Bastrop",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "39",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "49",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "39",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "43",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Bay City",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "3",
+          "average_wait_time": "00:06"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "16",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "2",
+          "average_wait_time": "00:04"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "1",
+          "average_wait_time": "00:01"
+        }
+      ]
+    },
+    {
+      "office_name": "Baytown",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "10",
+          "average_wait_time": "00:17"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "13",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "9",
+          "average_wait_time": "00:19"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "8",
+          "average_wait_time": "00:16"
+        }
+      ]
+    },
+    {
+      "office_name": "Beaumont",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "6",
+          "average_wait_time": "00:05"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "23",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Original",
+          "availability_days": "7",
+          "average_wait_time": "00:07"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "6",
+          "average_wait_time": "00:05"
+        }
+      ]
+    },
+    {
+      "office_name": "Beeville",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "4",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "18",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "4",
+          "average_wait_time": "00:04"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "3",
+          "average_wait_time": "00:02"
+        }
+      ]
+    },
+    {
+      "office_name": "Big Lake",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "4",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Big Spring",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "4",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "3",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Boerne",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "65",
+          "average_wait_time": "00:16"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "84",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "65",
+          "average_wait_time": "00:17"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "65",
+          "average_wait_time": "00:12"
+        }
+      ]
+    },
+    {
+      "office_name": "Bonham",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "56",
+          "average_wait_time": "00:14"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "83",
+          "average_wait_time": "00:12"
+        },
+        {
+          "type": "Original",
+          "availability_days": "53",
+          "average_wait_time": "00:17"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "55",
+          "average_wait_time": "00:10"
+        }
+      ]
+    },
+    {
+      "office_name": "Borger",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "5",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Bowie",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "28",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "12",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "Original",
+          "availability_days": "23",
+          "average_wait_time": "00:05"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "20",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Brady",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "4",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "17",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Breckenridge",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "13",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "38",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "18",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "14",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Brenham",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "12",
+          "average_wait_time": "00:07"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "28",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "12",
+          "average_wait_time": "00:04"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "9",
+          "average_wait_time": "00:01"
+        }
+      ]
+    },
+    {
+      "office_name": "Brownfield",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "4",
+          "average_wait_time": "00:14"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "6",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Original",
+          "availability_days": "3",
+          "average_wait_time": "00:06"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Brownsville",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "12",
+          "average_wait_time": "00:12"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "17",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "12",
+          "average_wait_time": "00:16"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "9",
+          "average_wait_time": "00:11"
+        }
+      ]
+    },
+    {
+      "office_name": "Brownwood",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "10",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "41",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "9",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "6",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Bryan",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "16",
+          "average_wait_time": "00:13"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "14",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "16",
+          "average_wait_time": "00:19"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "12",
+          "average_wait_time": "00:15"
+        }
+      ]
+    },
+    {
+      "office_name": "Caldwell",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "16",
+          "average_wait_time": "00:09"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "31",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "16",
+          "average_wait_time": "00:12"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "13",
+          "average_wait_time": "00:04"
+        }
+      ]
+    },
+    {
+      "office_name": "Cameron",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "27",
+          "average_wait_time": "00:58"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "66",
+          "average_wait_time": "00:06"
+        },
+        {
+          "type": "Original",
+          "availability_days": "30",
+          "average_wait_time": "00:15"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "35",
+          "average_wait_time": "00:08"
+        }
+      ]
+    },
+    {
+      "office_name": "Canadian",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "25",
+          "average_wait_time": "01:01"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "15",
+          "average_wait_time": "00:21"
+        },
+        {
+          "type": "Original",
+          "availability_days": "10",
+          "average_wait_time": "00:19"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "11",
+          "average_wait_time": "00:15"
+        }
+      ]
+    },
+    {
+      "office_name": "Canton",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "45",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "54",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "44",
+          "average_wait_time": "00:07"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "45",
+          "average_wait_time": "00:02"
+        }
+      ]
+    },
+    {
+      "office_name": "Carrollton Mega Center",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "16",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "60",
+          "average_wait_time": "00:10"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "48",
+          "average_wait_time": "00:04"
+        },
+        {
+          "type": "Original",
+          "availability_days": "53",
+          "average_wait_time": "00:11"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "59",
+          "average_wait_time": "00:10"
+        }
+      ]
+    },
+    {
+      "office_name": "Carthage",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "16",
+          "average_wait_time": "00:04"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "59",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "17",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "15",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Castroville",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "14",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "58",
+          "average_wait_time": "00:06"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "24",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "49",
+          "average_wait_time": "00:09"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "59",
+          "average_wait_time": "00:07"
+        }
+      ]
+    },
+    {
+      "office_name": "Center",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "0",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "17",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "1",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "0",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Centerville",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "16",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "31",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "16",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "12",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Childress",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "1",
+          "average_wait_time": "00:06"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "4",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "Original",
+          "availability_days": "3",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "1",
+          "average_wait_time": "00:01"
+        }
+      ]
+    },
+    {
+      "office_name": "Clarendon",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "1",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "9",
+          "average_wait_time": "00:04"
+        },
+        {
+          "type": "Original",
+          "availability_days": "8",
+          "average_wait_time": "00:13"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "5",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Clarksville",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "16",
+          "average_wait_time": "00:06"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "80",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Original",
+          "availability_days": "16",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "16",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Cleburne",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "56",
+          "average_wait_time": "00:13"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "55",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Original",
+          "availability_days": "50",
+          "average_wait_time": "00:14"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "56",
+          "average_wait_time": "00:13"
+        }
+      ]
+    },
+    {
+      "office_name": "Cleveland",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "19",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "46",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "17",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "13",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Coleman",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "11",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "37",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "7",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "7",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Colorado City",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "8",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "22",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "6",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Columbus",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "4",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "28",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "5",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "4",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Comanche",
+      "appointment_types": [
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "36",
+          "average_wait_time": "00:16"
+        },
+        {
+          "type": "Original",
+          "availability_days": "17",
+          "average_wait_time": "00:12"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "12",
+          "average_wait_time": "00:13"
+        }
+      ]
+    },
+    {
+      "office_name": "Conroe",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "19",
+          "average_wait_time": "00:08"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "16",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Original",
+          "availability_days": "16",
+          "average_wait_time": "00:12"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "13",
+          "average_wait_time": "00:06"
+        }
+      ]
+    },
+    {
+      "office_name": "Corpus Christi Mega Center",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "6",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "6",
+          "average_wait_time": "00:14"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "23",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "5",
+          "average_wait_time": "00:16"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "4",
+          "average_wait_time": "00:10"
+        }
+      ]
+    },
+    {
+      "office_name": "Corsicana",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "41",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "61",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Original",
+          "availability_days": "40",
+          "average_wait_time": "00:07"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "40",
+          "average_wait_time": "00:03"
+        }
+      ]
+    },
+    {
+      "office_name": "Cotulla",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "18",
+          "average_wait_time": "00:10"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "16",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Original",
+          "availability_days": "15",
+          "average_wait_time": "00:10"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "13",
+          "average_wait_time": "00:05"
+        }
+      ]
+    },
+    {
+      "office_name": "Crane",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "4",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "17",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "5",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "4",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Crockett",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "7",
+          "average_wait_time": "00:11"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "23",
+          "average_wait_time": "00:12"
+        },
+        {
+          "type": "Original",
+          "availability_days": "8",
+          "average_wait_time": "00:08"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "4",
+          "average_wait_time": "00:03"
+        }
+      ]
+    },
+    {
+      "office_name": "Crosbyton",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "9",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "6",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "4",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Crystal City",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "6",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "12",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "8",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "6",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Cuero",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "21",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "13",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "41",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "14",
+          "average_wait_time": "00:11"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "15",
+          "average_wait_time": "00:07"
+        }
+      ]
+    },
+    {
+      "office_name": "Daingerfield",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "11",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "80",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "15",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "12",
+          "average_wait_time": "00:01"
+        }
+      ]
+    },
+    {
+      "office_name": "Dalhart",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "22",
+          "average_wait_time": "00:10"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "21",
+          "average_wait_time": "00:15"
+        },
+        {
+          "type": "Original",
+          "availability_days": "21",
+          "average_wait_time": "00:22"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "19",
+          "average_wait_time": "00:12"
+        }
+      ]
+    },
+    {
+      "office_name": "Dallas South Mega Center",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "12",
+          "average_wait_time": "00:05"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "47",
+          "average_wait_time": "00:10"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "46",
+          "average_wait_time": "00:13"
+        },
+        {
+          "type": "Original",
+          "availability_days": "45",
+          "average_wait_time": "00:12"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "47",
+          "average_wait_time": "00:10"
+        }
+      ]
+    },
+    {
+      "office_name": "Decatur",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "52",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "70",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "49",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "52",
+          "average_wait_time": "00:01"
+        }
+      ]
+    },
+    {
+      "office_name": "Del Rio",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "6",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "6",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "4",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Denton",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "66",
+          "average_wait_time": "00:40"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "57",
+          "average_wait_time": "00:16"
+        },
+        {
+          "type": "Original",
+          "availability_days": "61",
+          "average_wait_time": "00:42"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "65",
+          "average_wait_time": "00:36"
+        }
+      ]
+    },
+    {
+      "office_name": "Denver City",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "3",
+          "average_wait_time": "00:14"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "4",
+          "average_wait_time": "00:18"
+        },
+        {
+          "type": "Original",
+          "availability_days": "4",
+          "average_wait_time": "00:11"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "2",
+          "average_wait_time": "00:07"
+        }
+      ]
+    },
+    {
+      "office_name": "Dimmitt",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "5",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "4",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "5",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Dumas",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "13",
+          "average_wait_time": "00:15"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "11",
+          "average_wait_time": "00:17"
+        },
+        {
+          "type": "Original",
+          "availability_days": "9",
+          "average_wait_time": "00:15"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "8",
+          "average_wait_time": "00:12"
+        }
+      ]
+    },
+    {
+      "office_name": "Eagle Pass",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "4",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "3",
+          "average_wait_time": "00:04"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "14",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "2",
+          "average_wait_time": "00:17"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "1",
+          "average_wait_time": "00:01"
+        }
+      ]
+    },
+    {
+      "office_name": "Eastland",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "16",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "48",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "23",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "15",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Edinburg Mega Center",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "2",
+          "average_wait_time": "00:05"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "14",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "2",
+          "average_wait_time": "00:07"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "El Paso Gateway",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "21",
+          "average_wait_time": "00:14"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "8",
+          "average_wait_time": "00:15"
+        },
+        {
+          "type": "Original",
+          "availability_days": "20",
+          "average_wait_time": "00:17"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "19",
+          "average_wait_time": "00:14"
+        }
+      ]
+    },
+    {
+      "office_name": "El Paso Hondo Pass",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "15",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "8",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Original",
+          "availability_days": "15",
+          "average_wait_time": "00:05"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "12",
+          "average_wait_time": "00:02"
+        }
+      ]
+    },
+    {
+      "office_name": "El Paso Northwest",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "3",
+          "average_wait_time": "00:20"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "19",
+          "average_wait_time": "00:12"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "10",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Original",
+          "availability_days": "16",
+          "average_wait_time": "00:14"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "13",
+          "average_wait_time": "00:06"
+        }
+      ]
+    },
+    {
+      "office_name": "El Paso Scott Simpson",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "24",
+          "average_wait_time": "00:12"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "2",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Original",
+          "availability_days": "23",
+          "average_wait_time": "00:11"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "21",
+          "average_wait_time": "00:10"
+        }
+      ]
+    },
+    {
+      "office_name": "Emory",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "44",
+          "average_wait_time": "00:04"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "53",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Original",
+          "availability_days": "37",
+          "average_wait_time": "00:08"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "39",
+          "average_wait_time": "00:03"
+        }
+      ]
+    },
+    {
+      "office_name": "Fairfield",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "31",
+          "average_wait_time": "00:06"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "34",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "Original",
+          "availability_days": "34",
+          "average_wait_time": "00:09"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "41",
+          "average_wait_time": "00:06"
+        }
+      ]
+    },
+    {
+      "office_name": "Floresville",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "51",
+          "average_wait_time": "00:07"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "71",
+          "average_wait_time": "00:05"
+        },
+        {
+          "type": "Original",
+          "availability_days": "42",
+          "average_wait_time": "00:08"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "43",
+          "average_wait_time": "00:07"
+        }
+      ]
+    },
+    {
+      "office_name": "Flower Mound",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "41",
+          "average_wait_time": "00:10"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "18",
+          "average_wait_time": "00:08"
+        },
+        {
+          "type": "Original",
+          "availability_days": "41",
+          "average_wait_time": "00:17"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "51",
+          "average_wait_time": "00:11"
+        }
+      ]
+    },
+    {
+      "office_name": "Floydada",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "0",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "6",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Fort Bliss - MUST HAVE ACCESS TO MILITARY BASE",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "16",
+          "average_wait_time": "00:09"
+        },
+        {
+          "type": "Original",
+          "availability_days": "21",
+          "average_wait_time": "00:09"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "16",
+          "average_wait_time": "00:03"
+        }
+      ]
+    },
+    {
+      "office_name": "Fort Hood",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "28",
+          "average_wait_time": "00:26"
+        },
+        {
+          "type": "Original",
+          "availability_days": "14",
+          "average_wait_time": "00:30"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "15",
+          "average_wait_time": "00:23"
+        }
+      ]
+    },
+    {
+      "office_name": "Fort Stockton",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "1",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Fort Worth East",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "89",
+          "average_wait_time": "00:16"
+        },
+        {
+          "type": "Original",
+          "availability_days": "57",
+          "average_wait_time": "00:07"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "66",
+          "average_wait_time": "00:05"
+        }
+      ]
+    },
+    {
+      "office_name": "Fort Worth Mega Center",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "14",
+          "average_wait_time": "00:04"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "58",
+          "average_wait_time": "00:25"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "51",
+          "average_wait_time": "00:17"
+        },
+        {
+          "type": "Original",
+          "availability_days": "53",
+          "average_wait_time": "00:30"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "58",
+          "average_wait_time": "00:25"
+        }
+      ]
+    },
+    {
+      "office_name": "Fort Worth South",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "64",
+          "average_wait_time": "00:30"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "45",
+          "average_wait_time": "00:08"
+        },
+        {
+          "type": "Original",
+          "availability_days": "51",
+          "average_wait_time": "00:32"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "60",
+          "average_wait_time": "00:27"
+        }
+      ]
+    },
+    {
+      "office_name": "Fredericksburg",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "28",
+          "average_wait_time": "00:06"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "73",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Original",
+          "availability_days": "30",
+          "average_wait_time": "00:06"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "29",
+          "average_wait_time": "00:03"
+        }
+      ]
+    },
+    {
+      "office_name": "Friona",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "10",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "5",
+          "average_wait_time": "00:14"
+        },
+        {
+          "type": "Original",
+          "availability_days": "4",
+          "average_wait_time": "00:08"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "4",
+          "average_wait_time": "00:05"
+        }
+      ]
+    },
+    {
+      "office_name": "Gainesville",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "55",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "75",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "53",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "55",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Galveston",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "7",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "7",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "7",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Garland",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "67",
+          "average_wait_time": "00:20"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "74",
+          "average_wait_time": "00:06"
+        },
+        {
+          "type": "Original",
+          "availability_days": "46",
+          "average_wait_time": "00:24"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "57",
+          "average_wait_time": "00:16"
+        }
+      ]
+    },
+    {
+      "office_name": "Gatesville",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "26",
+          "average_wait_time": "00:05"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "34",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "Original",
+          "availability_days": "27",
+          "average_wait_time": "00:07"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "27",
+          "average_wait_time": "00:05"
+        }
+      ]
+    },
+    {
+      "office_name": "George West",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "8",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "29",
+          "average_wait_time": "00:04"
+        },
+        {
+          "type": "Original",
+          "availability_days": "9",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "4",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Georgetown",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "17",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "16",
+          "average_wait_time": "00:37"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "60",
+          "average_wait_time": "00:07"
+        },
+        {
+          "type": "Original",
+          "availability_days": "28",
+          "average_wait_time": "00:40"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "30",
+          "average_wait_time": "00:36"
+        }
+      ]
+    },
+    {
+      "office_name": "Giddings",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "40",
+          "average_wait_time": "00:58"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "44",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "40",
+          "average_wait_time": "00:07"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "41",
+          "average_wait_time": "00:02"
+        }
+      ]
+    },
+    {
+      "office_name": "Gilmer",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "22",
+          "average_wait_time": "00:09"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "65",
+          "average_wait_time": "00:09"
+        },
+        {
+          "type": "Original",
+          "availability_days": "16",
+          "average_wait_time": "00:09"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "17",
+          "average_wait_time": "00:03"
+        }
+      ]
+    },
+    {
+      "office_name": "Goldthwaite",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "25",
+          "average_wait_time": "00:31"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "50",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "16",
+          "average_wait_time": "00:25"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "16",
+          "average_wait_time": "00:20"
+        }
+      ]
+    },
+    {
+      "office_name": "Gonzales",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "18",
+          "average_wait_time": "00:08"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "53",
+          "average_wait_time": "00:04"
+        },
+        {
+          "type": "Original",
+          "availability_days": "13",
+          "average_wait_time": "00:13"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "15",
+          "average_wait_time": "00:09"
+        }
+      ]
+    },
+    {
+      "office_name": "Graham",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "12",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "45",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Original",
+          "availability_days": "17",
+          "average_wait_time": "00:05"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "9",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Granbury",
+      "appointment_types": [
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "40",
+          "average_wait_time": "00:01"
+        }
+      ]
+    },
+    {
+      "office_name": "Grand Prairie",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "14",
+          "average_wait_time": "00:08"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "77",
+          "average_wait_time": "00:19"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "49",
+          "average_wait_time": "00:12"
+        },
+        {
+          "type": "Original",
+          "availability_days": "76",
+          "average_wait_time": "00:20"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "75",
+          "average_wait_time": "00:19"
+        }
+      ]
+    },
+    {
+      "office_name": "Greenville",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "46",
+          "average_wait_time": "00:11"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "70",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Original",
+          "availability_days": "43",
+          "average_wait_time": "00:09"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "46",
+          "average_wait_time": "00:08"
+        }
+      ]
+    },
+    {
+      "office_name": "Groesbeck",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "28",
+          "average_wait_time": "00:13"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "54",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Original",
+          "availability_days": "42",
+          "average_wait_time": "00:12"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "42",
+          "average_wait_time": "00:02"
+        }
+      ]
+    },
+    {
+      "office_name": "Hallettsville",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "36",
+          "average_wait_time": "00:08"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "39",
+          "average_wait_time": "00:21"
+        },
+        {
+          "type": "Original",
+          "availability_days": "33",
+          "average_wait_time": "00:14"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "31",
+          "average_wait_time": "00:13"
+        }
+      ]
+    },
+    {
+      "office_name": "Hamilton",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "35",
+          "average_wait_time": "00:16"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "51",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Original",
+          "availability_days": "27",
+          "average_wait_time": "00:26"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "29",
+          "average_wait_time": "00:19"
+        }
+      ]
+    },
+    {
+      "office_name": "Harlingen",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "11",
+          "average_wait_time": "00:07"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "18",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Original",
+          "availability_days": "10",
+          "average_wait_time": "00:09"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "9",
+          "average_wait_time": "00:05"
+        }
+      ]
+    },
+    {
+      "office_name": "Haskell",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "8",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "30",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "7",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "3",
+          "average_wait_time": "00:01"
+        }
+      ]
+    },
+    {
+      "office_name": "Hearne",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "10",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "12",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Original",
+          "availability_days": "12",
+          "average_wait_time": "00:05"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "9",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Hebbronville",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "7",
+          "average_wait_time": "00:18"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "14",
+          "average_wait_time": "00:10"
+        },
+        {
+          "type": "Original",
+          "availability_days": "24",
+          "average_wait_time": "00:10"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "22",
+          "average_wait_time": "00:09"
+        }
+      ]
+    },
+    {
+      "office_name": "Hemphill",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "0",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "34",
+          "average_wait_time": "00:13"
+        },
+        {
+          "type": "Original",
+          "availability_days": "1",
+          "average_wait_time": "00:07"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "0",
+          "average_wait_time": "00:02"
+        }
+      ]
+    },
+    {
+      "office_name": "Hempstead",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "19",
+          "average_wait_time": "00:06"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "35",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "18",
+          "average_wait_time": "00:09"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "16",
+          "average_wait_time": "00:06"
+        }
+      ]
+    },
+    {
+      "office_name": "Henderson",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "18",
+          "average_wait_time": "00:07"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "79",
+          "average_wait_time": "00:07"
+        },
+        {
+          "type": "Original",
+          "availability_days": "19",
+          "average_wait_time": "00:06"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "17",
+          "average_wait_time": "00:03"
+        }
+      ]
+    },
+    {
+      "office_name": "Hereford",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "2",
+          "average_wait_time": "00:14"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "5",
+          "average_wait_time": "00:15"
+        },
+        {
+          "type": "Original",
+          "availability_days": "3",
+          "average_wait_time": "00:14"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "2",
+          "average_wait_time": "00:10"
+        }
+      ]
+    },
+    {
+      "office_name": "Hillsboro",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "43",
+          "average_wait_time": "00:17"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "75",
+          "average_wait_time": "00:10"
+        },
+        {
+          "type": "Original",
+          "availability_days": "41",
+          "average_wait_time": "00:20"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "42",
+          "average_wait_time": "00:11"
+        }
+      ]
+    },
+    {
+      "office_name": "Houston Dacoma",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "18",
+          "average_wait_time": "00:09"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "19",
+          "average_wait_time": "00:11"
+        },
+        {
+          "type": "Original",
+          "availability_days": "15",
+          "average_wait_time": "00:14"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "16",
+          "average_wait_time": "00:09"
+        }
+      ]
+    },
+    {
+      "office_name": "Houston East (Tidwell)",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "13",
+          "average_wait_time": "00:17"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "20",
+          "average_wait_time": "00:04"
+        },
+        {
+          "type": "Original",
+          "availability_days": "11",
+          "average_wait_time": "00:22"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "9",
+          "average_wait_time": "00:19"
+        }
+      ]
+    },
+    {
+      "office_name": "Houston Gessner COMMERCIAL LICENSE ONLY",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "5",
+          "average_wait_time": "00:09"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "2",
+          "average_wait_time": "00:12"
+        },
+        {
+          "type": "Original",
+          "availability_days": "2",
+          "average_wait_time": "00:09"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "1",
+          "average_wait_time": "00:08"
+        }
+      ]
+    },
+    {
+      "office_name": "Houston Gessner Mega Center",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "12",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "16",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "Original",
+          "availability_days": "12",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "11",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Houston North Mega Center",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "5",
+          "average_wait_time": "00:10"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "8",
+          "average_wait_time": "00:12"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "18",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Original",
+          "availability_days": "8",
+          "average_wait_time": "00:17"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "6",
+          "average_wait_time": "00:12"
+        }
+      ]
+    },
+    {
+      "office_name": "Houston Southeast",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "9",
+          "average_wait_time": "00:21"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "8",
+          "average_wait_time": "00:17"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "18",
+          "average_wait_time": "00:15"
+        },
+        {
+          "type": "Original",
+          "availability_days": "7",
+          "average_wait_time": "00:19"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "7",
+          "average_wait_time": "00:18"
+        }
+      ]
+    },
+    {
+      "office_name": "Humble",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "16",
+          "average_wait_time": "00:11"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "22",
+          "average_wait_time": "00:06"
+        },
+        {
+          "type": "Original",
+          "availability_days": "16",
+          "average_wait_time": "00:11"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "14",
+          "average_wait_time": "00:08"
+        }
+      ]
+    },
+    {
+      "office_name": "Huntsville",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "17",
+          "average_wait_time": "00:05"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "28",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "15",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "12",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Jacksonville",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "16",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "56",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "19",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "19",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Jasper",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "20",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "2",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Jourdanton",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "39",
+          "average_wait_time": "00:05"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "59",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "40",
+          "average_wait_time": "00:05"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "40",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Junction",
+      "appointment_types": [
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "69",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "38",
+          "average_wait_time": "00:12"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "40",
+          "average_wait_time": "00:15"
+        }
+      ]
+    },
+    {
+      "office_name": "Karnes City",
+      "appointment_types": [
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "15",
+          "average_wait_time": "00:02"
+        }
+      ]
+    },
+    {
+      "office_name": "Kermit",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "14",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "12",
+          "average_wait_time": "00:04"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "12",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Kerrville",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "34",
+          "average_wait_time": "00:10"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "57",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "32",
+          "average_wait_time": "00:07"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "33",
+          "average_wait_time": "00:03"
+        }
+      ]
+    },
+    {
+      "office_name": "Kilgore",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "19",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "21",
+          "average_wait_time": "00:05"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "10",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "11",
+          "average_wait_time": "00:11"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "15",
+          "average_wait_time": "00:05"
+        }
+      ]
+    },
+    {
+      "office_name": "Killeen",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "23",
+          "average_wait_time": "00:27"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "46",
+          "average_wait_time": "00:05"
+        },
+        {
+          "type": "Original",
+          "availability_days": "14",
+          "average_wait_time": "00:22"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "16",
+          "average_wait_time": "00:16"
+        }
+      ]
+    },
+    {
+      "office_name": "Kingsville",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "2",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "15",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "1",
+          "average_wait_time": "00:08"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "1",
+          "average_wait_time": "00:04"
+        }
+      ]
+    },
+    {
+      "office_name": "Lake Worth",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "74",
+          "average_wait_time": "00:32"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "49",
+          "average_wait_time": "00:12"
+        },
+        {
+          "type": "Original",
+          "availability_days": "65",
+          "average_wait_time": "00:33"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "69",
+          "average_wait_time": "00:29"
+        }
+      ]
+    },
+    {
+      "office_name": "Lamesa",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "1",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "4",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "1",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Lampasas",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "18",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "78",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "17",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "20",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Laredo",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "16",
+          "average_wait_time": "00:33"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "9",
+          "average_wait_time": "00:04"
+        },
+        {
+          "type": "Original",
+          "availability_days": "27",
+          "average_wait_time": "00:36"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "22",
+          "average_wait_time": "00:27"
+        }
+      ]
+    },
+    {
+      "office_name": "Leon Valley Mega Center",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "18",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "51",
+          "average_wait_time": "00:18"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "37",
+          "average_wait_time": "00:15"
+        },
+        {
+          "type": "Original",
+          "availability_days": "44",
+          "average_wait_time": "00:20"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "47",
+          "average_wait_time": "00:19"
+        }
+      ]
+    },
+    {
+      "office_name": "Levelland",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "5",
+          "average_wait_time": "00:04"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "7",
+          "average_wait_time": "00:05"
+        },
+        {
+          "type": "Original",
+          "availability_days": "3",
+          "average_wait_time": "00:05"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "3",
+          "average_wait_time": "00:02"
+        }
+      ]
+    },
+    {
+      "office_name": "Lewisville",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "56",
+          "average_wait_time": "00:24"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "45",
+          "average_wait_time": "00:14"
+        },
+        {
+          "type": "Original",
+          "availability_days": "43",
+          "average_wait_time": "00:32"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "55",
+          "average_wait_time": "00:16"
+        }
+      ]
+    },
+    {
+      "office_name": "Liberty",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "15",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "27",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "15",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "13",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Linden",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "10",
+          "average_wait_time": "00:05"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "72",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "14",
+          "average_wait_time": "00:06"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "14",
+          "average_wait_time": "00:04"
+        }
+      ]
+    },
+    {
+      "office_name": "Littlefield",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "6",
+          "average_wait_time": "00:04"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "5",
+          "average_wait_time": "00:08"
+        },
+        {
+          "type": "Original",
+          "availability_days": "5",
+          "average_wait_time": "00:25"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "4",
+          "average_wait_time": "00:11"
+        }
+      ]
+    },
+    {
+      "office_name": "Livingston",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "12",
+          "average_wait_time": "00:06"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "8",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "26",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "6",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "5",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Llano",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "35",
+          "average_wait_time": "00:23"
+        },
+        {
+          "type": "Original",
+          "availability_days": "27",
+          "average_wait_time": "00:22"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "31",
+          "average_wait_time": "00:16"
+        }
+      ]
+    },
+    {
+      "office_name": "Lockhart",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "51",
+          "average_wait_time": "00:12"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "14",
+          "average_wait_time": "00:18"
+        },
+        {
+          "type": "Original",
+          "availability_days": "42",
+          "average_wait_time": "00:18"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "48",
+          "average_wait_time": "00:03"
+        }
+      ]
+    },
+    {
+      "office_name": "Longview",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "19",
+          "average_wait_time": "00:11"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "62",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "17",
+          "average_wait_time": "00:09"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "18",
+          "average_wait_time": "00:07"
+        }
+      ]
+    },
+    {
+      "office_name": "Lubbock",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "5",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "4",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "5",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "4",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Lubbock Main",
+      "appointment_types": [
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "19",
+          "average_wait_time": "00:15"
+        }
+      ]
+    },
+    {
+      "office_name": "Lufkin",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "19",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "3",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Madisonville",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "11",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "19",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "10",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "8",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Marble Falls",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "28",
+          "average_wait_time": "00:25"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "32",
+          "average_wait_time": "00:04"
+        },
+        {
+          "type": "Original",
+          "availability_days": "28",
+          "average_wait_time": "00:36"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "28",
+          "average_wait_time": "00:28"
+        }
+      ]
+    },
+    {
+      "office_name": "Marlin",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "36",
+          "average_wait_time": "00:04"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "57",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Original",
+          "availability_days": "56",
+          "average_wait_time": "00:14"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "53",
+          "average_wait_time": "00:01"
+        }
+      ]
+    },
+    {
+      "office_name": "Marshall",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "12",
+          "average_wait_time": "00:04"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "56",
+          "average_wait_time": "00:06"
+        },
+        {
+          "type": "Original",
+          "availability_days": "13",
+          "average_wait_time": "00:06"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "14",
+          "average_wait_time": "00:01"
+        }
+      ]
+    },
+    {
+      "office_name": "McAllen",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "5",
+          "average_wait_time": "00:12"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "14",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Original",
+          "availability_days": "5",
+          "average_wait_time": "00:16"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "5",
+          "average_wait_time": "00:10"
+        }
+      ]
+    },
+    {
+      "office_name": "McKinney",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "94",
+          "average_wait_time": "00:18"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "54",
+          "average_wait_time": "00:06"
+        },
+        {
+          "type": "Original",
+          "availability_days": "76",
+          "average_wait_time": "00:17"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "90",
+          "average_wait_time": "00:14"
+        }
+      ]
+    },
+    {
+      "office_name": "Meridian",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "30",
+          "average_wait_time": "00:04"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "96",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "Original",
+          "availability_days": "53",
+          "average_wait_time": "00:12"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "52",
+          "average_wait_time": "00:02"
+        }
+      ]
+    },
+    {
+      "office_name": "Midland Mega Center",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "5",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "5",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "5",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "5",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "4",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Mineral Wells",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "40",
+          "average_wait_time": "00:06"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "60",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Original",
+          "availability_days": "37",
+          "average_wait_time": "00:08"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "37",
+          "average_wait_time": "00:06"
+        }
+      ]
+    },
+    {
+      "office_name": "Mission",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "4",
+          "average_wait_time": "01:30"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "2",
+          "average_wait_time": "00:04"
+        }
+      ]
+    },
+    {
+      "office_name": "Monahans",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "4",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "1",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Mount Pleasant",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "18",
+          "average_wait_time": "00:06"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "47",
+          "average_wait_time": "00:04"
+        },
+        {
+          "type": "Original",
+          "availability_days": "18",
+          "average_wait_time": "00:05"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "17",
+          "average_wait_time": "00:04"
+        }
+      ]
+    },
+    {
+      "office_name": "Muleshoe",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "3",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "4",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "3",
+          "average_wait_time": "00:01"
+        }
+      ]
+    },
+    {
+      "office_name": "Munday",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "29",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Original",
+          "availability_days": "9",
+          "average_wait_time": "00:06"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "5",
+          "average_wait_time": "00:03"
+        }
+      ]
+    },
+    {
+      "office_name": "Nacogdoches",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "4",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "30",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "4",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "New Boston",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "17",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "85",
+          "average_wait_time": "00:05"
+        },
+        {
+          "type": "Original",
+          "availability_days": "17",
+          "average_wait_time": "00:09"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "15",
+          "average_wait_time": "00:05"
+        }
+      ]
+    },
+    {
+      "office_name": "New Braunfels",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "15",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "31",
+          "average_wait_time": "00:10"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "45",
+          "average_wait_time": "00:06"
+        },
+        {
+          "type": "Original",
+          "availability_days": "30",
+          "average_wait_time": "00:12"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "30",
+          "average_wait_time": "00:09"
+        }
+      ]
+    },
+    {
+      "office_name": "New Caney",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "11",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "14",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "11",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "North Garland Mega Center",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "48",
+          "average_wait_time": "00:37"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "54",
+          "average_wait_time": "00:14"
+        },
+        {
+          "type": "Original",
+          "availability_days": "48",
+          "average_wait_time": "00:38"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "33",
+          "average_wait_time": "00:32"
+        }
+      ]
+    },
+    {
+      "office_name": "Opus test Location",
+      "appointment_types": [
+        {
+          "type": "Original",
+          "availability_days": "0",
+          "average_wait_time": "00:30"
+        }
+      ]
+    },
+    {
+      "office_name": "Orange",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "7",
+          "average_wait_time": "00:04"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "19",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "7",
+          "average_wait_time": "00:06"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "6",
+          "average_wait_time": "00:04"
+        }
+      ]
+    },
+    {
+      "office_name": "Ozona",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "1",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Palestine",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "17",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "48",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "16",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "17",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Pampa",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "3",
+          "average_wait_time": "00:25"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "4",
+          "average_wait_time": "00:10"
+        },
+        {
+          "type": "Original",
+          "availability_days": "2",
+          "average_wait_time": "00:17"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "2",
+          "average_wait_time": "00:10"
+        }
+      ]
+    },
+    {
+      "office_name": "Panhandle",
+      "appointment_types": [
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "10",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "10",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "9",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Paris",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "21",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "25",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "58",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "21",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "21",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Pearsall",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "38",
+          "average_wait_time": "00:15"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "61",
+          "average_wait_time": "00:04"
+        },
+        {
+          "type": "Original",
+          "availability_days": "31",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "27",
+          "average_wait_time": "00:02"
+        }
+      ]
+    },
+    {
+      "office_name": "Pecos",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "1",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Perryton",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "1",
+          "average_wait_time": "00:11"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "4",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "Original",
+          "availability_days": "3",
+          "average_wait_time": "00:06"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "3",
+          "average_wait_time": "00:04"
+        }
+      ]
+    },
+    {
+      "office_name": "Pflugerville Mega Center",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "27",
+          "average_wait_time": "00:31"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "55",
+          "average_wait_time": "00:16"
+        },
+        {
+          "type": "Original",
+          "availability_days": "25",
+          "average_wait_time": "00:38"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "26",
+          "average_wait_time": "00:33"
+        }
+      ]
+    },
+    {
+      "office_name": "Pierce",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "24",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Plainview",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "3",
+          "average_wait_time": "00:12"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "5",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Original",
+          "availability_days": "3",
+          "average_wait_time": "00:11"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "2",
+          "average_wait_time": "00:08"
+        }
+      ]
+    },
+    {
+      "office_name": "Plano",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "78",
+          "average_wait_time": "00:12"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "75",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "71",
+          "average_wait_time": "00:13"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "81",
+          "average_wait_time": "00:10"
+        }
+      ]
+    },
+    {
+      "office_name": "Port Arthur",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "8",
+          "average_wait_time": "00:15"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "17",
+          "average_wait_time": "00:04"
+        },
+        {
+          "type": "Original",
+          "availability_days": "8",
+          "average_wait_time": "00:11"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "7",
+          "average_wait_time": "00:09"
+        }
+      ]
+    },
+    {
+      "office_name": "Port Lavaca",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "17",
+          "average_wait_time": "00:14"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "26",
+          "average_wait_time": "00:08"
+        },
+        {
+          "type": "Original",
+          "availability_days": "14",
+          "average_wait_time": "00:16"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "15",
+          "average_wait_time": "00:10"
+        }
+      ]
+    },
+    {
+      "office_name": "Post",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "1",
+          "average_wait_time": "00:10"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "4",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Presidio",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "10",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Original",
+          "availability_days": "5",
+          "average_wait_time": "00:05"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "3",
+          "average_wait_time": "00:01"
+        }
+      ]
+    },
+    {
+      "office_name": "Quanah",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "6",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "10",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Original",
+          "availability_days": "7",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "7",
+          "average_wait_time": "00:11"
+        }
+      ]
+    },
+    {
+      "office_name": "Quitman",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "34",
+          "average_wait_time": "00:12"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "47",
+          "average_wait_time": "00:09"
+        },
+        {
+          "type": "Original",
+          "availability_days": "32",
+          "average_wait_time": "00:16"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "33",
+          "average_wait_time": "00:08"
+        }
+      ]
+    },
+    {
+      "office_name": "Rio Grande City",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "2",
+          "average_wait_time": "00:10"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "9",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "2",
+          "average_wait_time": "00:10"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "2",
+          "average_wait_time": "00:08"
+        }
+      ]
+    },
+    {
+      "office_name": "Roby",
+      "appointment_types": [
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "25",
+          "average_wait_time": "00:38"
+        },
+        {
+          "type": "Original",
+          "availability_days": "27",
+          "average_wait_time": "00:21"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "23",
+          "average_wait_time": "00:03"
+        }
+      ]
+    },
+    {
+      "office_name": "Rockwall",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "73",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "95",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "64",
+          "average_wait_time": "00:09"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "74",
+          "average_wait_time": "00:02"
+        }
+      ]
+    },
+    {
+      "office_name": "Rosenberg Mega Center",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "9",
+          "average_wait_time": "00:08"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "9",
+          "average_wait_time": "00:12"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "14",
+          "average_wait_time": "00:07"
+        },
+        {
+          "type": "Original",
+          "availability_days": "9",
+          "average_wait_time": "00:15"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "8",
+          "average_wait_time": "00:11"
+        }
+      ]
+    },
+    {
+      "office_name": "San Angelo",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "4",
+          "average_wait_time": "00:04"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "4",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "4",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "3",
+          "average_wait_time": "00:07"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "3",
+          "average_wait_time": "00:01"
+        }
+      ]
+    },
+    {
+      "office_name": "San Antonio Gen McMullen",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "55",
+          "average_wait_time": "00:29"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "62",
+          "average_wait_time": "00:07"
+        },
+        {
+          "type": "Original",
+          "availability_days": "44",
+          "average_wait_time": "00:29"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "44",
+          "average_wait_time": "00:26"
+        }
+      ]
+    },
+    {
+      "office_name": "San Antonio Pat Booker",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "51",
+          "average_wait_time": "00:21"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "35",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Original",
+          "availability_days": "43",
+          "average_wait_time": "00:24"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "44",
+          "average_wait_time": "00:19"
+        }
+      ]
+    },
+    {
+      "office_name": "San Antonio Southeast",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "24",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "50",
+          "average_wait_time": "00:13"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "57",
+          "average_wait_time": "00:11"
+        },
+        {
+          "type": "Original",
+          "availability_days": "41",
+          "average_wait_time": "00:15"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "45",
+          "average_wait_time": "00:12"
+        }
+      ]
+    },
+    {
+      "office_name": "San Marcos",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "44",
+          "average_wait_time": "00:08"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "50",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Original",
+          "availability_days": "36",
+          "average_wait_time": "00:11"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "39",
+          "average_wait_time": "00:11"
+        }
+      ]
+    },
+    {
+      "office_name": "Seguin",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "44",
+          "average_wait_time": "00:11"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "54",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Original",
+          "availability_days": "39",
+          "average_wait_time": "00:11"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "42",
+          "average_wait_time": "00:08"
+        }
+      ]
+    },
+    {
+      "office_name": "Seminole",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "1",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Seymour",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "8",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "41",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Original",
+          "availability_days": "18",
+          "average_wait_time": "00:04"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "12",
+          "average_wait_time": "00:01"
+        }
+      ]
+    },
+    {
+      "office_name": "Sherman",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "64",
+          "average_wait_time": "00:05"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "78",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Original",
+          "availability_days": "58",
+          "average_wait_time": "00:14"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "62",
+          "average_wait_time": "00:06"
+        }
+      ]
+    },
+    {
+      "office_name": "Sinton",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "3",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "20",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "3",
+          "average_wait_time": "00:05"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Slaton",
+      "appointment_types": [
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "2",
+          "average_wait_time": "00:20"
+        }
+      ]
+    },
+    {
+      "office_name": "Snyder",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "6",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "9",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "4",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Sonora",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "9",
+          "average_wait_time": "00:08"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "7",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "9",
+          "average_wait_time": "00:01"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "8",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Spearman",
+      "appointment_types": [
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "3",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Spring Mega Center",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "11",
+          "average_wait_time": "00:10"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "16",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "Original",
+          "availability_days": "10",
+          "average_wait_time": "00:12"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "9",
+          "average_wait_time": "00:08"
+        }
+      ]
+    },
+    {
+      "office_name": "Stanton",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "11",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "22",
+          "average_wait_time": "00:05"
+        },
+        {
+          "type": "Original",
+          "availability_days": "11",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "12",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Stephenville",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "22",
+          "average_wait_time": "00:13"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "41",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "24",
+          "average_wait_time": "00:16"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "24",
+          "average_wait_time": "00:14"
+        }
+      ]
+    },
+    {
+      "office_name": "Sulphur Springs",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "28",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "54",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "25",
+          "average_wait_time": "00:04"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "25",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Sweetwater",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "8",
+          "average_wait_time": "00:10"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "23",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Original",
+          "availability_days": "7",
+          "average_wait_time": "00:14"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "7",
+          "average_wait_time": "00:08"
+        }
+      ]
+    },
+    {
+      "office_name": "Taylor",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "24",
+          "average_wait_time": "00:10"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "61",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "22",
+          "average_wait_time": "00:11"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "23",
+          "average_wait_time": "00:10"
+        }
+      ]
+    },
+    {
+      "office_name": "Temple",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "20",
+          "average_wait_time": "00:29"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "57",
+          "average_wait_time": "00:08"
+        },
+        {
+          "type": "Original",
+          "availability_days": "19",
+          "average_wait_time": "00:21"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "21",
+          "average_wait_time": "00:16"
+        }
+      ]
+    },
+    {
+      "office_name": "Terrell",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "84",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "80",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "74",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "78",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Test Location 1",
+      "appointment_types": [
+        {
+          "type": "Original",
+          "availability_days": "0",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Texarkana",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "26",
+          "average_wait_time": "00:28"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "64",
+          "average_wait_time": "00:08"
+        },
+        {
+          "type": "Original",
+          "availability_days": "15",
+          "average_wait_time": "00:10"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "17",
+          "average_wait_time": "00:06"
+        }
+      ]
+    },
+    {
+      "office_name": "Texas City",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "9",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "21",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "8",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "7",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Tolar",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "40",
+          "average_wait_time": "00:07"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "54",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "37",
+          "average_wait_time": "00:08"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "35",
+          "average_wait_time": "00:06"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "42",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Tulia",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "9",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "9",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "4",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "4",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Tyler",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "28",
+          "average_wait_time": "00:08"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "47",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "26",
+          "average_wait_time": "00:10"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "27",
+          "average_wait_time": "00:05"
+        }
+      ]
+    },
+    {
+      "office_name": "Uvalde",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "11",
+          "average_wait_time": "00:15"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "9",
+          "average_wait_time": "00:15"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "19",
+          "average_wait_time": "00:04"
+        },
+        {
+          "type": "Original",
+          "availability_days": "11",
+          "average_wait_time": "00:12"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "8",
+          "average_wait_time": "00:06"
+        }
+      ]
+    },
+    {
+      "office_name": "Van Horn",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "4",
+          "average_wait_time": "00:16"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "6",
+          "average_wait_time": "00:06"
+        },
+        {
+          "type": "Original",
+          "availability_days": "5",
+          "average_wait_time": "00:07"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "4",
+          "average_wait_time": "00:05"
+        }
+      ]
+    },
+    {
+      "office_name": "Vega",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "3",
+          "average_wait_time": "00:09"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "8",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "5",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Vernon",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "10",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "20",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "9",
+          "average_wait_time": "00:06"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "7",
+          "average_wait_time": "00:01"
+        }
+      ]
+    },
+    {
+      "office_name": "Waco",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "38",
+          "average_wait_time": "00:18"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "77",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Original",
+          "availability_days": "33",
+          "average_wait_time": "00:16"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "35",
+          "average_wait_time": "00:08"
+        }
+      ]
+    },
+    {
+      "office_name": "Waco CDL",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "14",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "10",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Wallisville",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "9",
+          "average_wait_time": "00:10"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "19",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "11",
+          "average_wait_time": "00:09"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "9",
+          "average_wait_time": "00:05"
+        }
+      ]
+    },
+    {
+      "office_name": "Waxahachie",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "45",
+          "average_wait_time": "00:16"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "39",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "40",
+          "average_wait_time": "00:18"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "46",
+          "average_wait_time": "00:15"
+        }
+      ]
+    },
+    {
+      "office_name": "Weatherford",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "47",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "71",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "48",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "51",
+          "average_wait_time": "00:01"
+        }
+      ]
+    },
+    {
+      "office_name": "Weslaco",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "5",
+          "average_wait_time": "00:02"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "13",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "5",
+          "average_wait_time": "00:05"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "4",
+          "average_wait_time": "00:02"
+        }
+      ]
+    },
+    {
+      "office_name": "Wichita Falls",
+      "appointment_types": [
+        {
+          "type": "CDL Drive Test",
+          "availability_days": "7",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "CDL Renewal",
+          "availability_days": "14",
+          "average_wait_time": "00:07"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "23",
+          "average_wait_time": "00:04"
+        },
+        {
+          "type": "Original",
+          "availability_days": "13",
+          "average_wait_time": "00:09"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "11",
+          "average_wait_time": "00:08"
+        }
+      ]
+    },
+    {
+      "office_name": "Woodville",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "20",
+          "average_wait_time": "00:00"
+        },
+        {
+          "type": "Original",
+          "availability_days": "2",
+          "average_wait_time": "00:03"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "2",
+          "average_wait_time": "00:00"
+        }
+      ]
+    },
+    {
+      "office_name": "Zapata",
+      "appointment_types": [
+        {
+          "type": "CDL Renewal",
+          "availability_days": "14",
+          "average_wait_time": "00:07"
+        },
+        {
+          "type": "Non CDL Drive Test",
+          "availability_days": "12",
+          "average_wait_time": "00:10"
+        },
+        {
+          "type": "Original",
+          "availability_days": "17",
+          "average_wait_time": "00:07"
+        },
+        {
+          "type": "Renewal/Replacement",
+          "availability_days": "11",
+          "average_wait_time": "00:03"
+        }
+      ]
+    }
+  ]
+}
