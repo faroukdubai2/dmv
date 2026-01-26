@@ -1,6 +1,6 @@
 {
   "title": "Driver License Appointment and Office Wait Times",
-  "extraction_date": "2026-01-25T08:15:32.734138",
+  "extraction_date": "2026-01-26T08:19:34.765536",
   "source_url": "https://www.dps.texas.gov/apps/Viewer/Document/Vue/WAITTIMES",
   "offices": [
     {
@@ -49,7 +49,7 @@
         {
           "type": "Original",
           "availability_days": "4",
-          "average_wait_time": "00:01"
+          "average_wait_time": "00:00"
         },
         {
           "type": "Renewal/Replacement",
@@ -199,7 +199,7 @@
         {
           "type": "Non CDL Drive Test",
           "availability_days": "33",
-          "average_wait_time": "00:14"
+          "average_wait_time": "00:15"
         },
         {
           "type": "Original",
@@ -328,7 +328,7 @@
         },
         {
           "type": "Original",
-          "availability_days": "36",
+          "availability_days": "35",
           "average_wait_time": "00:57"
         },
         {
@@ -403,7 +403,7 @@
         },
         {
           "type": "Renewal/Replacement",
-          "availability_days": "43",
+          "availability_days": "42",
           "average_wait_time": "00:00"
         }
       ]
@@ -449,7 +449,7 @@
         {
           "type": "Original",
           "availability_days": "9",
-          "average_wait_time": "00:18"
+          "average_wait_time": "00:19"
         },
         {
           "type": "Renewal/Replacement",
@@ -489,7 +489,7 @@
         {
           "type": "CDL Renewal",
           "availability_days": "4",
-          "average_wait_time": "00:02"
+          "average_wait_time": "00:01"
         },
         {
           "type": "Non CDL Drive Test",
@@ -568,7 +568,7 @@
         },
         {
           "type": "Original",
-          "availability_days": "65",
+          "availability_days": "64",
           "average_wait_time": "00:17"
         },
         {
@@ -824,7 +824,7 @@
         {
           "type": "Renewal/Replacement",
           "availability_days": "12",
-          "average_wait_time": "00:14"
+          "average_wait_time": "00:13"
         }
       ]
     },
@@ -938,7 +938,7 @@
         },
         {
           "type": "CDL Renewal",
-          "availability_days": "59",
+          "availability_days": "58",
           "average_wait_time": "00:11"
         },
         {
@@ -988,7 +988,7 @@
       "appointment_types": [
         {
           "type": "CDL Drive Test",
-          "availability_days": "14",
+          "availability_days": "13",
           "average_wait_time": "00:00"
         },
         {
@@ -1008,7 +1008,7 @@
         },
         {
           "type": "Renewal/Replacement",
-          "availability_days": "59",
+          "availability_days": "58",
           "average_wait_time": "00:06"
         }
       ]
@@ -1053,7 +1053,7 @@
         },
         {
           "type": "Original",
-          "availability_days": "16",
+          "availability_days": "15",
           "average_wait_time": "00:00"
         },
         {
@@ -1074,7 +1074,7 @@
         {
           "type": "Non CDL Drive Test",
           "availability_days": "4",
-          "average_wait_time": "00:02"
+          "average_wait_time": "00:03"
         },
         {
           "type": "Original",
@@ -1129,7 +1129,7 @@
         {
           "type": "Original",
           "availability_days": "16",
-          "average_wait_time": "00:01"
+          "average_wait_time": "00:00"
         },
         {
           "type": "Renewal/Replacement",
@@ -1148,8 +1148,8 @@
         },
         {
           "type": "Non CDL Drive Test",
-          "availability_days": "55",
-          "average_wait_time": "00:01"
+          "availability_days": "54",
+          "average_wait_time": "00:00"
         },
         {
           "type": "Original",
@@ -1168,7 +1168,7 @@
       "appointment_types": [
         {
           "type": "CDL Renewal",
-          "availability_days": "18",
+          "availability_days": "19",
           "average_wait_time": "00:00"
         },
         {
@@ -1193,7 +1193,7 @@
       "appointment_types": [
         {
           "type": "CDL Renewal",
-          "availability_days": "11",
+          "availability_days": "5",
           "average_wait_time": "00:00"
         },
         {
@@ -1229,7 +1229,7 @@
         {
           "type": "Original",
           "availability_days": "6",
-          "average_wait_time": "00:00"
+          "average_wait_time": "00:01"
         },
         {
           "type": "Renewal/Replacement",
@@ -1393,7 +1393,7 @@
       "appointment_types": [
         {
           "type": "CDL Renewal",
-          "availability_days": "4",
+          "availability_days": "3",
           "average_wait_time": "00:00"
         },
         {
@@ -1534,12 +1534,12 @@
         {
           "type": "Original",
           "availability_days": "15",
-          "average_wait_time": "00:03"
+          "average_wait_time": "00:04"
         },
         {
           "type": "Renewal/Replacement",
           "availability_days": "12",
-          "average_wait_time": "00:02"
+          "average_wait_time": "00:03"
         }
       ]
     },
@@ -1574,7 +1574,7 @@
         {
           "type": "CDL Drive Test",
           "availability_days": "12",
-          "average_wait_time": "00:05"
+          "average_wait_time": "00:06"
         },
         {
           "type": "CDL Renewal",
@@ -1949,7 +1949,7 @@
         {
           "type": "CDL Renewal",
           "availability_days": "39",
-          "average_wait_time": "00:02"
+          "average_wait_time": "00:01"
         },
         {
           "type": "Non CDL Drive Test",
@@ -1958,8 +1958,8 @@
         },
         {
           "type": "Original",
-          "availability_days": "35",
-          "average_wait_time": "00:07"
+          "availability_days": "34",
+          "average_wait_time": "00:08"
         },
         {
           "type": "Renewal/Replacement",
@@ -2029,7 +2029,7 @@
         {
           "type": "Non CDL Drive Test",
           "availability_days": "18",
-          "average_wait_time": "00:09"
+          "average_wait_time": "00:10"
         },
         {
           "type": "Original",
@@ -2093,8 +2093,8 @@
       "appointment_types": [
         {
           "type": "CDL Renewal",
-          "availability_days": "28",
-          "average_wait_time": "00:26"
+          "availability_days": "29",
+          "average_wait_time": "00:25"
         },
         {
           "type": "Original",
@@ -2104,7 +2104,7 @@
         {
           "type": "Renewal/Replacement",
           "availability_days": "16",
-          "average_wait_time": "00:24"
+          "average_wait_time": "00:23"
         }
       ]
     },
@@ -2168,7 +2168,7 @@
         },
         {
           "type": "Non CDL Drive Test",
-          "availability_days": "51",
+          "availability_days": "50",
           "average_wait_time": "00:17"
         },
         {
@@ -2263,7 +2263,7 @@
       "appointment_types": [
         {
           "type": "CDL Renewal",
-          "availability_days": "55",
+          "availability_days": "54",
           "average_wait_time": "00:01"
         },
         {
@@ -2324,7 +2324,7 @@
         {
           "type": "Renewal/Replacement",
           "availability_days": "56",
-          "average_wait_time": "00:15"
+          "average_wait_time": "00:16"
         }
       ]
     },
@@ -2338,7 +2338,7 @@
         },
         {
           "type": "Non CDL Drive Test",
-          "availability_days": "34",
+          "availability_days": "33",
           "average_wait_time": "00:04"
         },
         {
@@ -2393,8 +2393,8 @@
         },
         {
           "type": "Non CDL Drive Test",
-          "availability_days": "61",
-          "average_wait_time": "00:07"
+          "availability_days": "60",
+          "average_wait_time": "00:08"
         },
         {
           "type": "Original",
@@ -2488,8 +2488,8 @@
       "appointment_types": [
         {
           "type": "CDL Renewal",
-          "availability_days": "18",
-          "average_wait_time": "00:06"
+          "availability_days": "19",
+          "average_wait_time": "00:07"
         },
         {
           "type": "Non CDL Drive Test",
@@ -2548,13 +2548,13 @@
       "appointment_types": [
         {
           "type": "CDL Drive Test",
-          "availability_days": "14",
+          "availability_days": "13",
           "average_wait_time": "00:08"
         },
         {
           "type": "CDL Renewal",
           "availability_days": "76",
-          "average_wait_time": "00:19"
+          "average_wait_time": "00:18"
         },
         {
           "type": "Non CDL Drive Test",
@@ -2564,12 +2564,12 @@
         {
           "type": "Original",
           "availability_days": "75",
-          "average_wait_time": "00:20"
+          "average_wait_time": "00:19"
         },
         {
           "type": "Renewal/Replacement",
-          "availability_days": "75",
-          "average_wait_time": "00:19"
+          "availability_days": "74",
+          "average_wait_time": "00:18"
         }
       ]
     },
@@ -2804,7 +2804,7 @@
         {
           "type": "CDL Renewal",
           "availability_days": "19",
-          "average_wait_time": "00:06"
+          "average_wait_time": "00:07"
         },
         {
           "type": "Non CDL Drive Test",
@@ -2818,7 +2818,7 @@
         },
         {
           "type": "Renewal/Replacement",
-          "availability_days": "16",
+          "availability_days": "15",
           "average_wait_time": "00:05"
         }
       ]
@@ -2903,7 +2903,7 @@
       "appointment_types": [
         {
           "type": "CDL Renewal",
-          "availability_days": "18",
+          "availability_days": "17",
           "average_wait_time": "00:09"
         },
         {
@@ -2913,12 +2913,12 @@
         },
         {
           "type": "Original",
-          "availability_days": "15",
+          "availability_days": "14",
           "average_wait_time": "00:14"
         },
         {
           "type": "Renewal/Replacement",
-          "availability_days": "16",
+          "availability_days": "15",
           "average_wait_time": "00:09"
         }
       ]
@@ -2939,7 +2939,7 @@
         {
           "type": "Original",
           "availability_days": "11",
-          "average_wait_time": "00:22"
+          "average_wait_time": "00:21"
         },
         {
           "type": "Renewal/Replacement",
@@ -2954,22 +2954,22 @@
         {
           "type": "CDL Drive Test",
           "availability_days": "5",
-          "average_wait_time": "00:11"
+          "average_wait_time": "00:09"
         },
         {
           "type": "CDL Renewal",
           "availability_days": "2",
-          "average_wait_time": "00:12"
+          "average_wait_time": "00:10"
         },
         {
           "type": "Original",
           "availability_days": "2",
-          "average_wait_time": "00:09"
+          "average_wait_time": "00:08"
         },
         {
           "type": "Renewal/Replacement",
           "availability_days": "1",
-          "average_wait_time": "00:09"
+          "average_wait_time": "00:08"
         }
       ]
     },
@@ -3054,12 +3054,12 @@
         {
           "type": "Original",
           "availability_days": "7",
-          "average_wait_time": "00:19"
+          "average_wait_time": "00:20"
         },
         {
           "type": "Renewal/Replacement",
           "availability_days": "7",
-          "average_wait_time": "00:18"
+          "average_wait_time": "00:19"
         }
       ]
     },
@@ -3103,7 +3103,7 @@
         },
         {
           "type": "Original",
-          "availability_days": "15",
+          "availability_days": "14",
           "average_wait_time": "00:02"
         },
         {
@@ -3169,7 +3169,7 @@
         {
           "type": "CDL Renewal",
           "availability_days": "37",
-          "average_wait_time": "00:04"
+          "average_wait_time": "00:03"
         },
         {
           "type": "Non CDL Drive Test",
@@ -3184,7 +3184,7 @@
         {
           "type": "Renewal/Replacement",
           "availability_days": "40",
-          "average_wait_time": "00:00"
+          "average_wait_time": "00:01"
         }
       ]
     },
@@ -3263,7 +3263,7 @@
         },
         {
           "type": "Renewal/Replacement",
-          "availability_days": "33",
+          "availability_days": "32",
           "average_wait_time": "00:03"
         }
       ]
@@ -3303,12 +3303,12 @@
       "appointment_types": [
         {
           "type": "CDL Renewal",
-          "availability_days": "24",
-          "average_wait_time": "00:30"
+          "availability_days": "25",
+          "average_wait_time": "00:31"
         },
         {
           "type": "Non CDL Drive Test",
-          "availability_days": "46",
+          "availability_days": "45",
           "average_wait_time": "00:05"
         },
         {
@@ -3364,7 +3364,7 @@
         {
           "type": "Original",
           "availability_days": "65",
-          "average_wait_time": "00:33"
+          "average_wait_time": "00:32"
         },
         {
           "type": "Renewal/Replacement",
@@ -3463,18 +3463,18 @@
         },
         {
           "type": "CDL Renewal",
-          "availability_days": "50",
-          "average_wait_time": "00:18"
+          "availability_days": "51",
+          "average_wait_time": "00:17"
         },
         {
           "type": "Non CDL Drive Test",
-          "availability_days": "36",
-          "average_wait_time": "00:15"
+          "availability_days": "37",
+          "average_wait_time": "00:14"
         },
         {
           "type": "Original",
           "availability_days": "44",
-          "average_wait_time": "00:20"
+          "average_wait_time": "00:19"
         },
         {
           "type": "Renewal/Replacement",
@@ -3588,13 +3588,13 @@
       "appointment_types": [
         {
           "type": "CDL Renewal",
-          "availability_days": "6",
-          "average_wait_time": "00:04"
+          "availability_days": "5",
+          "average_wait_time": "00:03"
         },
         {
           "type": "Non CDL Drive Test",
           "availability_days": "5",
-          "average_wait_time": "00:08"
+          "average_wait_time": "00:09"
         },
         {
           "type": "Original",
@@ -3614,7 +3614,7 @@
         {
           "type": "CDL Drive Test",
           "availability_days": "12",
-          "average_wait_time": "00:04"
+          "average_wait_time": "00:05"
         },
         {
           "type": "CDL Renewal",
@@ -3623,7 +3623,7 @@
         },
         {
           "type": "Non CDL Drive Test",
-          "availability_days": "25",
+          "availability_days": "26",
           "average_wait_time": "00:00"
         },
         {
@@ -3663,7 +3663,7 @@
       "appointment_types": [
         {
           "type": "CDL Renewal",
-          "availability_days": "49",
+          "availability_days": "47",
           "average_wait_time": "00:12"
         },
         {
@@ -3679,7 +3679,7 @@
         {
           "type": "Renewal/Replacement",
           "availability_days": "47",
-          "average_wait_time": "00:02"
+          "average_wait_time": "00:03"
         }
       ]
     },
@@ -3804,7 +3804,7 @@
         {
           "type": "CDL Renewal",
           "availability_days": "27",
-          "average_wait_time": "00:25"
+          "average_wait_time": "00:24"
         },
         {
           "type": "Non CDL Drive Test",
@@ -3819,7 +3819,7 @@
         {
           "type": "Renewal/Replacement",
           "availability_days": "27",
-          "average_wait_time": "00:27"
+          "average_wait_time": "00:28"
         }
       ]
     },
@@ -3869,7 +3869,7 @@
         {
           "type": "Renewal/Replacement",
           "availability_days": "14",
-          "average_wait_time": "00:02"
+          "average_wait_time": "00:01"
         }
       ]
     },
@@ -3879,7 +3879,7 @@
         {
           "type": "CDL Renewal",
           "availability_days": "6",
-          "average_wait_time": "00:12"
+          "average_wait_time": "00:13"
         },
         {
           "type": "Non CDL Drive Test",
@@ -3984,12 +3984,12 @@
         {
           "type": "CDL Renewal",
           "availability_days": "40",
-          "average_wait_time": "00:05"
+          "average_wait_time": "00:06"
         },
         {
           "type": "Non CDL Drive Test",
           "availability_days": "60",
-          "average_wait_time": "00:01"
+          "average_wait_time": "00:02"
         },
         {
           "type": "Original",
@@ -4054,7 +4054,7 @@
         {
           "type": "Non CDL Drive Test",
           "availability_days": "48",
-          "average_wait_time": "00:03"
+          "average_wait_time": "00:04"
         },
         {
           "type": "Original",
@@ -4073,8 +4073,8 @@
       "appointment_types": [
         {
           "type": "CDL Renewal",
-          "availability_days": "4",
-          "average_wait_time": "00:01"
+          "availability_days": "3",
+          "average_wait_time": "00:00"
         },
         {
           "type": "Non CDL Drive Test",
@@ -4163,7 +4163,7 @@
         },
         {
           "type": "Renewal/Replacement",
-          "availability_days": "16",
+          "availability_days": "15",
           "average_wait_time": "00:06"
         }
       ]
@@ -4398,7 +4398,7 @@
         },
         {
           "type": "CDL Renewal",
-          "availability_days": "25",
+          "availability_days": "24",
           "average_wait_time": "00:00"
         },
         {
@@ -4578,7 +4578,7 @@
       "appointment_types": [
         {
           "type": "CDL Renewal",
-          "availability_days": "77",
+          "availability_days": "76",
           "average_wait_time": "00:12"
         },
         {
@@ -4588,7 +4588,7 @@
         },
         {
           "type": "Original",
-          "availability_days": "71",
+          "availability_days": "70",
           "average_wait_time": "00:13"
         },
         {
@@ -4803,7 +4803,7 @@
       "appointment_types": [
         {
           "type": "CDL Renewal",
-          "availability_days": "73",
+          "availability_days": "71",
           "average_wait_time": "00:03"
         },
         {
@@ -4819,7 +4819,7 @@
         {
           "type": "Renewal/Replacement",
           "availability_days": "73",
-          "average_wait_time": "00:02"
+          "average_wait_time": "00:03"
         }
       ]
     },
@@ -4874,7 +4874,7 @@
         {
           "type": "Original",
           "availability_days": "3",
-          "average_wait_time": "00:07"
+          "average_wait_time": "00:06"
         },
         {
           "type": "Renewal/Replacement",
@@ -5199,7 +5199,7 @@
         {
           "type": "Original",
           "availability_days": "9",
-          "average_wait_time": "00:12"
+          "average_wait_time": "00:13"
         },
         {
           "type": "Renewal/Replacement",
@@ -5268,7 +5268,7 @@
         },
         {
           "type": "Non CDL Drive Test",
-          "availability_days": "55",
+          "availability_days": "54",
           "average_wait_time": "00:00"
         },
         {
@@ -5398,8 +5398,8 @@
       "appointment_types": [
         {
           "type": "CDL Renewal",
-          "availability_days": "26",
-          "average_wait_time": "00:28"
+          "availability_days": "27",
+          "average_wait_time": "00:29"
         },
         {
           "type": "Non CDL Drive Test",
@@ -5463,13 +5463,13 @@
         },
         {
           "type": "Renewal/Replacement",
-          "availability_days": "35",
-          "average_wait_time": "00:06"
+          "availability_days": "42",
+          "average_wait_time": "00:00"
         },
         {
           "type": "Renewal/Replacement",
-          "availability_days": "42",
-          "average_wait_time": "00:00"
+          "availability_days": "35",
+          "average_wait_time": "00:06"
         }
       ]
     },
@@ -5533,7 +5533,7 @@
         },
         {
           "type": "CDL Renewal",
-          "availability_days": "9",
+          "availability_days": "10",
           "average_wait_time": "00:15"
         },
         {
@@ -5619,7 +5619,7 @@
         {
           "type": "Original",
           "availability_days": "9",
-          "average_wait_time": "00:06"
+          "average_wait_time": "00:07"
         },
         {
           "type": "Renewal/Replacement",
@@ -5683,7 +5683,7 @@
         },
         {
           "type": "Original",
-          "availability_days": "11",
+          "availability_days": "10",
           "average_wait_time": "00:09"
         },
         {
@@ -5789,7 +5789,7 @@
         {
           "type": "Original",
           "availability_days": "12",
-          "average_wait_time": "00:09"
+          "average_wait_time": "00:08"
         },
         {
           "type": "Renewal/Replacement",
@@ -5833,8 +5833,8 @@
         },
         {
           "type": "Non CDL Drive Test",
-          "availability_days": "12",
-          "average_wait_time": "00:10"
+          "availability_days": "13",
+          "average_wait_time": "00:09"
         },
         {
           "type": "Original",
@@ -5843,7 +5843,7 @@
         },
         {
           "type": "Renewal/Replacement",
-          "availability_days": "12",
+          "availability_days": "11",
           "average_wait_time": "00:04"
         }
       ]
