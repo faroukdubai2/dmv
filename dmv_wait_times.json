@@ -1,6 +1,6 @@
 {
   "title": "Driver License Appointment and Office Wait Times",
-  "extraction_date": "2026-07-04T09:58:14.105020",
+  "extraction_date": "2026-07-05T10:02:08.929599",
   "source_url": "https://www.dps.texas.gov/apps/Viewer/Document/Vue/WAITTIMES",
   "offices": [
     {
@@ -4289,7 +4289,7 @@
         {
           "type": "Original",
           "availability_days": "0",
-          "average_wait_time": "00:20"
+          "average_wait_time": "00:16"
         }
       ]
     },
